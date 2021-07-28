@@ -1,0 +1,2 @@
+# distance_str_check
+Write a function called distance defined as follows: def distance (num1, num2, num3): The function takes three integers: num1, num2, num3. The function returns True if both conditions are met: 1. One of the numbers num2 or num3 is "close" to num1. "Close" = absolute distance 1. 2. One of the numbers num2 or num3 is "far" from the other two numbers. "Far" = absolute distance 2 and up.
